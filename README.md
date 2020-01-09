@@ -3,7 +3,7 @@
 ## Required Environment : 
 ### install 'pygame' module
 
-## Ways of Execution :
+## Ways of Execution(download repo.zip) :
 ### 1. Open command line and get into the directory of the files. Type 'python Menu_final.py' ,and then game surface will present.
 ### 2. Directly click on the 'Menu_final.py' file ,and then game surface will present.
 
@@ -16,3 +16,18 @@
 ### 6. In 1player mode, each time player hit the ball, some points will be added to the scoreboard on the upleft of the surface. The points you get is proportional to current ball speed. Once player missed the ball, one round is over. if the total score you get is the highest so far, it will be recorded as the 'highest score', which is shown every time in preparation stage. Click red 'X' to return to main menu, with your overall highest score shown for a few seconds.
 ### 7. In both modes, some treasure randomly shows on the surface. Player can hit the ball to touch them to get some special effects. The kinds and functions of all treasure are described in PowerPoint.
 ### 8. There are sound effects for the game, so be sure to turn on your speaker to attain better game-playing experience(?.
+
+
+
+(teamwork)
+B08901138王昱淇:
+殺球功能
+板子運動功能
+音效與介面
+B08901082吳育澤:
+球運動功能
+各種寶物
+計分功能
+共同:
+遊戲主體內容構思
+寶物類型
