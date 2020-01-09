@@ -18,16 +18,17 @@
 ### 8. There are sound effects for the game, so be sure to turn on your speaker to attain better game-playing experience(?.
 
 
-
-#### (teamwork)
-#### B08901138王昱淇:
+#
+#
+### (teamwork)
+### B08901138王昱淇:
 #### 殺球功能
 #### 板子運動功能
 #### 音效與介面
-#### B08901082吳育澤:
+### B08901082吳育澤:
 #### 球運動功能
 #### 各種寶物
 #### 計分功能
-#### 共同:
+### 共同:
 #### 遊戲主體內容構思
 #### 寶物類型
